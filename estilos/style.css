@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url("/imagens/wallpaper-rosa.jpeg") no-repeat top center;
+    background: url("../imagens/wallpaper-rosa.jpeg") no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
 }
